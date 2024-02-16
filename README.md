@@ -4,15 +4,6 @@
 
 [![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-## ▪️ See my 42cursus progress ↙️ 
-
-◦ [42cursus progress](https://github.com/jgravalo)
-
-## ▪️ Github stats 📊
-
-![jgravalo GitHub stats](https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&theme=github_dark)
 
 ## ▪️ My Skill Set
 ### Frontend
@@ -21,6 +12,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"/>
 ### Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="<GitHub" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+
+## ▪️ See my 42cursus progress ↙️ 
+
+◦ [42cursus progress](https://github.com/jgravalo?tab=repositories)
+## ▪️ Github stats 📊
+
+![jgravalo GitHub stats](https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&theme=github_dark)
 
 
 ## ▪️ Contact me 📥
