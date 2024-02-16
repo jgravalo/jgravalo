@@ -12,7 +12,7 @@
 
 ![jgravalo GitHub stats](https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&theme=github_dark)
 
 ## ▪️ My Skill Set
 ### Frontend
