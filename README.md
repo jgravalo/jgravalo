@@ -24,11 +24,22 @@
 
 
 ## ▪️ Contact me 📥
-
-Email: jgravalo@student.42barcelona.com
-
-<a href='mailto:jgravalo@student.42barcelona.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+<br/>
+<div align="center">
+<a href='mailto:jgravalo@student.42barcelona.com' target="_blank">
+<img src=https://img.shields.io/badge/Gmail-100000?&style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335 alt=Gmail style="margin-bottom: 5px;" />
 </a>
-
-<a href='https://www.linkedin.com/in/jgravalo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href="https://github.com/jgravalo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://linkedin.com/in/jgravalo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/jesusgr.__" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
