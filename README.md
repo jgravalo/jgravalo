@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to software development  
   
 
-- ⚡ Fun fact: I'm only 21 years old. 
+- ⚡ I'm 21 years old. 
   
 
 ## ▪️ My profile at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
