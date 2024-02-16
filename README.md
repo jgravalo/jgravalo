@@ -2,7 +2,7 @@
 
 ## ▪️ I'm student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
 
-[![gemartin's 42 stats](https://badge.mediaplus.ma/binary/gemartin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ See my 42cursus progress ↙️ 
 
