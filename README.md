@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center"> Hi, I’m Jesús Alberto Grávalos Olivier 🙋🏻‍♂️ </h1>
 
 ### <div align="center">I'm Jesús, a full-time full-stack freelance developer 👨‍💻 studing since 2019 🚀</div>  
@@ -6,29 +9,31 @@
 - 🔭 I’m currently studing on [42 Barcelona](https://www.42barcelona.com/es/)  
   
 
-- 🌱 I’m currently learning C++ and NGINX
+- 🌱 I’m currently learning about Docker and NGINX
   
 
 - ❓ Ask me about anything related to software development  
   
 
 - ⚡ I'm 21 years old. 
-  
 
 ## ▪️ My profile at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
 
+<div align="center">
+  
 [![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+</div>
 
 ## ▪️ My Skill Set
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nest,flutter"/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ruby,django"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,nginx"/>
 
 ## ▪️ See my 42cursus progress ↙️ 
 
