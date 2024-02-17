@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,vm"/>
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker"/>
 
 ## ▪️ See my 42cursus progress ↙️ 
 
