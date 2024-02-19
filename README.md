@@ -23,6 +23,8 @@
   
 [![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+◦ [42cursus progress](https://github.com/jgravalo?tab=repositories)
+
 </div>
 
 ## ▪️ My Skill Set
@@ -35,9 +37,6 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,nginx"/>
 
-## ▪️ See my 42cursus progress ↙️ 
-
-◦ [42cursus progress](https://github.com/jgravalo?tab=repositories)
 ## ▪️ Github stats 📊
 
 ![jgravalo GitHub stats](https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&theme=github_dark)
