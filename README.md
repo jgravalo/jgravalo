@@ -23,7 +23,7 @@
   
 [![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-◦ [42cursus progress](https://github.com/jgravalo?tab=repositories)
+◦ [42cursus progress](https://github.com/jgravalo/42Cursus)
 
 </div>
 
