@@ -21,7 +21,7 @@
 
 <div align="center">
   
-[![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)]([https://github.com/oakoudad/badge42](https://github.com/jgravalo/42Cursus))
+[![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/jgravalo/42Cursus)
 
 ◦ [42cursus progress](https://github.com/jgravalo/42Cursus)
 
