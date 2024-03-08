@@ -23,8 +23,6 @@
   
 [![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/jgravalo/42Cursus)
 
-◦ [42cursus progress](https://github.com/jgravalo/42Cursus)
-
 </div>
 
 ## ▪️ My Skill Set
@@ -32,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,nest,flutter"/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ruby,django"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,solidity"/>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,nginx"/>
