@@ -3,6 +3,14 @@
 
 <h1 align="center"> Hi, I’m Jesús Alberto Grávalos Olivier 🙋🏻‍♂️ </h1>
 
+
+<div align="center">
+  
+[![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/jgravalo/42Cursus)
+
+</div>
+
+
 ### <div align="center">I'm Jesús, a full-time full-stack freelance developer 👨‍💻 studing since 2019 🚀</div>  
   
 
@@ -17,14 +25,6 @@
 
 - ⚡ I'm 21 years old. 
 
-## ▪️ My profile at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
-
-<div align="center">
-  
-[![jgravalo's 42 stats](https://badge.mediaplus.ma/binary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/jgravalo/42Cursus)
-
-</div>
-
 ## ▪️ My Skill Set
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,php,nest,flutter"/>
@@ -32,8 +32,8 @@
 ### Backend
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,solidity"/>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,nginx"/>
+### DevOps
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,nginx,docker"/>
 
 ## ▪️ Github stats 📊
 
