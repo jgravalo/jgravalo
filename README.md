@@ -30,10 +30,10 @@
 <img alt="html,css,js,php" src="https://skillicons.dev/icons?i=html,css,js,php"/>
 
 ### Backend
-<img alt="c,cpp,java,python,django,solidity" src="https://skillicons.dev/icons?i=c,cpp,java,python,django,solidity"/>
+<img alt="c,cpp,python,django,solidity" src="https://skillicons.dev/icons?i=c,cpp,python,django,solidity"/>
 
 ### DevOps
-<img alt="git,github,bash,linux,nginx,docker" src="https://skillicons.dev/icons?i=git,github,bash,linux,nginx,docker"/>
+<img alt="git,github,bash,linux,nginx,docker,wordpress,mysql,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,linux,nginx,wordpress,mysql,postgresql"/>
 
 ## ▪️ Github stats 📊
 
@@ -53,7 +53,7 @@
 </a>
 <a href="https://linkedin.com/in/jgravalo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
 </div>
 <br/>
 <br/>
