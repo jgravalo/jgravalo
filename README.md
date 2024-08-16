@@ -33,7 +33,7 @@
 <img alt="c,cpp,python,django,solidity" src="https://skillicons.dev/icons?i=c,cpp,python,django,solidity"/>
 
 ### DevOps
-<img alt="git,github,bash,linux,nginx,docker,wordpress,mysql,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,linux,nginx,wordpress,mysql,postgresql"/>
+<img alt="git,github,bash,linux,nginx,docker,wordpress,mysql,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,nginx,wordpress,mysql,postgresql"/>
 
 ## ▪️ Github stats 📊
 
