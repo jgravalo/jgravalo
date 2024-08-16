@@ -27,13 +27,13 @@
 
 ## ▪️ My Skill Set
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nest,flutter"/>
+<img alt="html,css,js,php" src="https://skillicons.dev/icons?i=html,css,js,php"/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,solidity"/>
+<img alt="c,cpp,java,python,django,solidity" src="https://skillicons.dev/icons?i=c,cpp,java,python,django,solidity"/>
 
 ### DevOps
-<img src="https://skillicons.dev/icons?i=git,github,bash,linux,nginx,docker"/>
+<img alt="git,github,bash,linux,nginx,docker" src="https://skillicons.dev/icons?i=git,github,bash,linux,nginx,docker"/>
 
 ## ▪️ Github stats 📊
 
