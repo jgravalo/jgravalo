@@ -54,7 +54,7 @@
 
 ![jgravalo GitHub stats](https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&theme=github_dark&layout=donut)
 
 
 ## ▪️ Contact me 📥
