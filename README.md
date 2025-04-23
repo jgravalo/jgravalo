@@ -14,16 +14,16 @@
 ### <div align="center">I'm Jesús, a full-time full-stack freelance developer 👨‍💻 studing since 2019 🚀</div>  
   
 
-- 🔭 I’m currently studing on [42 Barcelona](https://www.42barcelona.com/es/)  
+- 🔭 I’m currently studing on [42 Barcelona](https://www.42barcelona.com/es/), having reached the common core part, and developing myself in specializations for the new issues.
+
+
+- 🌱 I’m currently learning about the elemental technologies as data science, network development and cibersecurity.
   
 
-- 🌱 I’m currently learning about Docker and NGINX
-  
+- ⚡ I want to learn about the new technologies as Web3, Quantum computing and AI.
 
-- ❓ Ask me about anything related to software development  
-  
 
-- ⚡ I'm 21 years old. 
+- ❓ Ask me about anything related to software development. I learned about use the issues for increase my knowledges.
 
 ## ▪️ My Skill Set
 ### Frontend
