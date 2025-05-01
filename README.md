@@ -26,7 +26,7 @@
 - ❓ Ask me about anything related to software development. I learned about use the issues for increase my knowledges.
 
 ## ▪️ My Skill Set
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="25%">
 
 ### Frontend
 - HTML
@@ -35,7 +35,7 @@
 - Bootstrap
 <img alt="html,css,js,php" src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend
 - C
@@ -44,18 +44,23 @@
 - Django
 <img alt="c,cpp,python,django" src="https://skillicons.dev/icons?i=c,cpp,python,django"/>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### DevOps
-- Git
-- Github
-- Bash
 - Docker
 - Nginx
 - PostGreSQL
-<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,docker"/>
-<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=nginx,postgresql,mysql"/>
-<!-- git,github,bash, -->
+- MySQL
+<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=docker,nginx,postgresql,mysql"/>
+
+</td><td valign="top" width="25%">
+
+### Tools
+- Git
+- Github
+- Bash
+- Vim
+<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,vim"/>
 
 </td></tr></table>
 
@@ -69,6 +74,16 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&hide_border=true&layout=donut" align="center" style="width: 100%" /></div>
 
 </td></tr></table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jgravalo&row=1" alt="ailopez-o" style="width:75%">
+</div>
+
+<p align="center">
+  <a href="https://github.com/jgravalo">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
 
 ## ▪️ Contact me 📥
 <br/>
