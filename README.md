@@ -76,7 +76,7 @@
 </td></tr></table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jgravalo&row=1" alt="ailopez-o" style="width:75%">
+  <img src="https://github-profile-trophy.vercel.app/?username=jgravalo&row=1" alt="trophies" style="width:75%">
 </div>
 
 <p align="center">
