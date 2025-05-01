@@ -26,12 +26,16 @@
 - ❓ Ask me about anything related to software development. I learned about use the issues for increase my knowledges.
 
 ## ▪️ My Skill Set
+<table align="center"><tr><td valign="top" width="33%">
+
 ### Frontend
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 <img alt="html,css,js,php" src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</td><td valign="top" width="33%">
 
 ### Backend
 - C
@@ -40,22 +44,31 @@
 - Django
 <img alt="c,cpp,python,django" src="https://skillicons.dev/icons?i=c,cpp,python,django"/>
 
+</td><td valign="top" width="33%">
+
 ### DevOps
 - Git
 - Github
 - Bash
 - Docker
 - Nginx
-- MySQL
 - PostGreSQL
-<img alt="git,github,bash,docker,nginx,wordpress,mysql,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,docker,nginx,mysql,postgresql"/>
+<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,docker"/>
+<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=nginx,postgresql,mysql"/>
+<!-- git,github,bash, -->
+
+</td></tr></table>
 
 ## ▪️ Github stats 📊
+<table align="center"><tr><td align="center" valign="center" width="50%">
 
-![jgravalo GitHub stats](https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&theme=github_dark)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&theme=github_dark&layout=donut)
+</td><td valign="top" width="50%">
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&hide_border=true&layout=donut" align="center" style="width: 100%" /></div>
+
+</td></tr></table>
 
 ## ▪️ Contact me 📥
 <br/>
