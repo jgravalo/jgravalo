@@ -50,8 +50,8 @@
 - Docker
 - Nginx
 - PostGreSQL
-- MySQL
-<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=docker,nginx,postgresql,mysql"/>
+- Redis
+<img alt="docker,nginx,postgresql,redis" src="https://skillicons.dev/icons?i=docker,nginx,postgresql,redis"/>
 
 </td><td valign="top" width="25%">
 
@@ -60,7 +60,7 @@
 - Github
 - Bash
 - Vim
-<img alt="bash,docker,nginx,postgresql" src="https://skillicons.dev/icons?i=git,github,bash,vim"/>
+<img alt="git,github,bash,vim" src="https://skillicons.dev/icons?i=git,github,bash,vim"/>
 
 </td></tr></table>
 
