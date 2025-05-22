@@ -11,7 +11,7 @@
 </div>
 
 
-### <div align="center">I'm Jesús, a full-time full-stack freelance developer 👨‍💻 studing since 2019 🚀</div>  
+### <div align="center">I'm Jesús, a full-time full-stack developer 👨‍💻 studing since 2019 🚀</div>  
   
 
 - 🔭 I’m currently studing on [42 Barcelona](https://www.42barcelona.com/es/), having reached the common core part, and developing myself in specializations for the new issues.
