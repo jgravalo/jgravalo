@@ -91,8 +91,8 @@
 <a href='mailto:jgravalo@student.42barcelona.com' target="_blank">
 <img src=https://img.shields.io/badge/Gmail-100000?&style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335 alt=Gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/jgravalo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://jgravalo.github.io" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jgravalo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
