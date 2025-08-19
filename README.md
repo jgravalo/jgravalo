@@ -24,6 +24,7 @@
 
 
 - ❓ Ask me about anything related to software development. I learned about use the issues for increase my knowledges.
+<br>
 
 ## ▪️ My Skill Set
 <table align="center"><tr><td valign="top" width="25%">
@@ -63,6 +64,7 @@
 <img alt="git,github,bash,vim" src="https://skillicons.dev/icons?i=git,github,bash,vim"/>
 
 </td></tr></table>
+<br>
 
 ## ▪️ Projects
 ### 42 Common Core
@@ -116,6 +118,7 @@
   </tr>
 </table>
 </div>
+<br>
 
 ### 42 Outer Core
 <div align="center">
@@ -153,7 +156,7 @@
   </tr>
 </table>
 </div>
-
+<br>
 
 ## ▪️ Github stats 📊
 <table align="center"><tr><td align="center" valign="center" width="50%">
@@ -175,6 +178,7 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </a>
 </p>
+<br>
 
 ## ▪️ Contact me 📥
 <br/>
