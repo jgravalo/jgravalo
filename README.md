@@ -64,6 +64,99 @@
 
 </td></tr></table>
 
+## ▪️ Projects
+### 42 Common Core
+<div align="center">
+<table>
+  <td rowspan="4"><a href="https://github.com/jgravalo/42Cursus"><img width="80" align="center" src="https://github.com/user-attachments/assets/b0ca0e88-e5c7-4ea7-aaf0-e2c55900e46d"></a><br><a href="https://github.com/jgravalo/42Cursus"><img width="80" align="center" src="https://github.com/user-attachments/assets/8992fe87-0051-4ab5-a775-cb04d09375e1"></a>
+  </td>
+  <tr>
+    <td align="center"> 0 </td>
+    <td align="center"> 1 </td>
+    <td align="center"> 2 </td>
+    <td align="center"> 3 </td>
+    <td align="center"> 4 </td>
+    <td align="center"> 5 </td>
+    <td align="center"> 6 </td>
+  </tr>
+  <tr>
+    <td align="center">
+
+[`Libft`](https://github.com/jgravalo/Libft)
+    </td>
+    <td align="left">
+
+  [`ft_printf`](https://github.com/jgravalo/ft_printf)<br>
+  [`Get_next_line`](https://github.com/jgravalo/Get_next_line)
+    </td>
+    <td align="left">
+
+[`Push_swap`](https://github.com/jgravalo/Push_swap)<br>
+[`FdF`](https://github.com/jgravalo/FdF)<br>
+[`Pipex`](https://github.com/jgravalo/Pipex)
+    </td>
+    <td align="left">
+
+[`Philosophers`](https://github.com/jgravalo/Philosophers)<br>
+[`Minishell`](https://github.com/jgravalo/Minishell)
+    </td>
+    <td align="left">
+
+[`Cub3D`](https://github.com/jgravalo/Cub3D)<br>
+[`CPP0-4`](https://github.com/jgravalo/CPP0-4)
+    </td>
+    <td align="left">
+
+[`Webserv`](https://github.com/jgravalo/Webserv)<br>
+[`Inception`](https://github.com/jgravalo/Inception)<br>
+[`CPP5-9`](https://github.com/jgravalo/CPP5-9)
+    </td>
+    <td align="left">
+
+[`ft_transcendence`](https://github.com/jgravalo/ft_transcendence)<br>
+    </td>
+  </tr>
+</table>
+</div>
+
+### 42 Outer Core
+<div align="center">
+<table>
+  <tr>
+    <td align="center"> System & Kernel </td>
+    <td align="center"> Cryptography </td>
+    <td align="center"> Web </td>
+    <td align="center"> App </td>
+    <td align="center"> DevOps </td>
+  </tr>
+  <tr>
+    <td align="center">
+      
+[`ft_ping`](https://github.com/jgravalo/ft_ping)
+    </td>
+    <td align="left">
+    
+[`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5) `(developing)`
+    </td>
+    <td align="left">
+
+[`Red_Tetris`](https://github.com/jgravalo/Red_Tetris) `(developing)`<br>
+[`Camagru`](https://github.com/jgravalo/Camagru) `(developing)`
+    </td>
+    <td align="left">
+
+[`ft_hangouts`](https://github.com/jgravalo/ft_hangouts) `(developing)`<br>
+[`Swifty-Companion`](https://github.com/jgravalo/Swifty-Companion) `(developing)`
+    </td>
+    <td align="left">
+    
+[`Inception-of-Things`](https://github.com/jgravalo/Inception-of-Things) `(developing)`
+    </td>
+  </tr>
+</table>
+</div>
+
+
 ## ▪️ Github stats 📊
 <table align="center"><tr><td align="center" valign="center" width="50%">
 
