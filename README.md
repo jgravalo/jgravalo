@@ -68,8 +68,6 @@
 ### 42 Common Core
 <div align="center">
 <table>
-  <td rowspan="4"><a href="https://github.com/jgravalo/42Cursus"><img width="80" align="center" src="https://github.com/user-attachments/assets/b0ca0e88-e5c7-4ea7-aaf0-e2c55900e46d"></a><br><a href="https://github.com/jgravalo/42Cursus"><img width="80" align="center" src="https://github.com/user-attachments/assets/8992fe87-0051-4ab5-a775-cb04d09375e1"></a>
-  </td>
   <tr>
     <td align="center"> 0 </td>
     <td align="center"> 1 </td>
