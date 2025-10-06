@@ -80,7 +80,7 @@
     <td align="center"> 6 </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
 
 [`Libft`](https://github.com/jgravalo/Libft)
     </td>
@@ -131,7 +131,7 @@
     <td align="center"> DevOps </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       
 [`ft_ping`](https://github.com/jgravalo/ft_ping)
     </td>
@@ -164,15 +164,20 @@
   <tr>
     <td align="center"> Full Stack </td>
     <td align="center"> Data Science </td>
+    <td align="center"> Front End </td>
   </tr>
   <tr>
     <td align="center">
       
 [`Test_Full_Stack`](https://github.com/jgravalo/Test_Full_Stack)
     </td>
-    <td align="left">
+    <td align="center">
     
 [`Test_Data_Science`](https://github.com/jgravalo/Test_Data_Science)
+    </td>
+    <td align="center">
+    
+[`Test_Data_Science`](https://github.com/jgravalo/Test_Front_End)
     </td>
   </tr>
 </table>
