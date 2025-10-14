@@ -137,7 +137,7 @@
     </td>
     <td align="left">
     
-[`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5) `(developing)`
+[`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5)
     </td>
     <td align="left">
 
