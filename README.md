@@ -125,7 +125,7 @@
 <table>
   <tr>
     <td align="center"> System & Kernel </td>
-    <td align="center"> Cryptography </td>
+    <td align="center"> AI & Algorithms </td>
     <td align="center"> Web </td>
     <td align="center"> App </td>
     <td align="center"> DevOps </td>
@@ -137,7 +137,8 @@
     </td>
     <td align="left">
     
-[`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5)
+[`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5)<br>
+[`ft_linear_regression`](https://github.com/jgravalo/ft_linear_regression)
     </td>
     <td align="left">
 
