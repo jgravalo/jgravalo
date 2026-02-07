@@ -33,8 +33,8 @@
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
-<img alt="html,css,js,php" src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+- React
+<img alt="html,css,js,react" src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
 </td><td valign="top" width="25%">
 
