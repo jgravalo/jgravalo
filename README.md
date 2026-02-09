@@ -193,6 +193,61 @@
 
 
 ## ▪️ Github stats 📊
+<div align="center">
+    <a href="https://github.com/jgravalo/42Cursus">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/common_coree.png" alt="CUB3D" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/webserv">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/webserve.png" alt="CUB3D" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Cub3D">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Netpractice">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/cpp_piscine_2">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Minishell">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Philosophers">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/so_long_Linux">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longn.png" alt="SOLONG" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Pipex">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Push_swap_42">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="100"/>
+  </a>
+  
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="100"/>
+  
+  <a href="https://github.com/jgravalo/get_next_line">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/Printf">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="100"/>
+  </a>
+  
+  <a href="https://github.com/jgravalo/libft_bonus">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
+  </a>
+</div>
 <table align="center"><tr><td align="center" valign="center" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
