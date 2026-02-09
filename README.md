@@ -206,7 +206,7 @@
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3de.png" alt="CUB3D" height="100"/>
   </a>
   
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
   
   <a href="https://github.com/jgravalo/cpp_piscine_2">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="100"/>
@@ -232,7 +232,7 @@
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" alt="PUSH_SWAP" height="100"/>
   </a>
   
-    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="100"/>
   
   <a href="https://github.com/jgravalo/get_next_line">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="100"/>
