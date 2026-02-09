@@ -208,7 +208,7 @@
   
   <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
   
-  <a href="https://github.com/jgravalo/cpp_piscine_2">
+  <a href="https://github.com/jgravalo/CPP0-4">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="100"/>
   </a>
   
@@ -220,7 +220,7 @@
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="100"/>
   </a>
   
-  <a href="https://github.com/jgravalo/so_long_Linux">
+  <a href="https://github.com/jgravalo/FdF">
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longn.png" alt="SOLONG" height="100"/>
   </a>
   
@@ -238,11 +238,11 @@
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="100"/>
   </a>
   
-  <a href="https://github.com/jgravalo/Printf">
+  <a href="https://github.com/jgravalo/ft_printf">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="100"/>
   </a>
   
-  <a href="https://github.com/jgravalo/libft_bonus">
+  <a href="https://github.com/jgravalo/Libft">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
   </a>
 </div>
