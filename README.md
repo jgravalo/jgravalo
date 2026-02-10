@@ -246,24 +246,29 @@
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
   </a>
 </div>
-<table align="center"><tr><td align="center" valign="center" width="50%">
+<table align="center"><tr>
+  <td align="center" valign="center" width="50%">
+  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jgravalo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+  </td><td valign="top" width="50%">
 
-</td><td valign="top" width="50%">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&hide_border=true&layout=donut" align="center" style="width: 100%" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgravalo&hide_border=true&layout=donut" align="center" style="width: 100%" /></div>
+  </td></tr></table>
 
-</td></tr></table>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgravalo&theme=dark" alt="jgravalo" /></p>
+    <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=jgravalo&label=Profile%20views&color=005700&style=flat" alt="jgravalo" /></a> <br>
+    <a href="#"><img align="center" src="https://img.shields.io/github/stars/jgravalo?style=social"></a> 
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jgravalo&row=1" alt="trophies" style="width:75%">
 </div>
 
 <p align="center">
-  <a href="https://github.com/jgravalo">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  </a>
+  <a href="https://github.com/jgravalo"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"></a>
 </p>
 <br>
 
