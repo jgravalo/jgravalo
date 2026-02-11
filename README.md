@@ -195,19 +195,19 @@
 ## ▪️ Github stats 📊
 <div align="center">
     <a href="https://github.com/jgravalo/42Cursus">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/common_coree.png" alt="CUB3D" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/common_coree.png" alt="CURSUS" height="100"/>
   </a>
 
   <a href="https://github.com/jgravalo/ft_transcendence">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_transcendencem.png" alt="CUB3D" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_transcendencem.png" alt="FT_TRANSCENDENCE" height="100"/>
   </a>
 
   <a href="https://github.com/jgravalo/inception">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/inceptionm.png" alt="CUB3D" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/inceptionm.png" alt="INCEPTION" height="100"/>
   </a>
   
   <a href="https://github.com/jgravalo/webserv">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/webservm.png" alt="CUB3D" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/webservm.png" alt="WEBSERV" height="100"/>
   </a>
   
   <a href="https://github.com/jgravalo/Cub3D">
@@ -221,7 +221,7 @@
   </a>
   
   <a href="https://github.com/jgravalo/Minishell">
-    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MINISHELL" height="100"/>
   </a>
   
   <a href="https://github.com/jgravalo/Philosophers">
@@ -229,7 +229,7 @@
   </a>
   
   <a href="https://github.com/jgravalo/FdF">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fdfe.png" alt="SOLONG" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fdfe.png" alt="FDF" height="100"/>
   </a>
   
   <a href="https://github.com/jgravalo/Pipex">
@@ -251,7 +251,7 @@
   </a>
   
   <a href="https://github.com/jgravalo/Libft">
-    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT" height="100"/>
   </a>
 </div>
 <table align="center"><tr>
