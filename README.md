@@ -197,6 +197,14 @@
     <a href="https://github.com/jgravalo/42Cursus">
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/common_coree.png" alt="CUB3D" height="100"/>
   </a>
+
+  <a href="https://github.com/jgravalo/ft_transcendence">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_transcendencem.png" alt="CUB3D" height="100"/>
+  </a>
+
+  <a href="https://github.com/jgravalo/inception">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/inceptionm.png" alt="CUB3D" height="100"/>
+  </a>
   
   <a href="https://github.com/jgravalo/webserv">
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/webservm.png" alt="CUB3D" height="100"/>
@@ -221,7 +229,7 @@
   </a>
   
   <a href="https://github.com/jgravalo/FdF">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longn.png" alt="SOLONG" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fdfe.png" alt="SOLONG" height="100"/>
   </a>
   
   <a href="https://github.com/jgravalo/Pipex">
