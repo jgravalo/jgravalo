@@ -236,7 +236,7 @@
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="100"/>
   </a>
   
-  <a href="https://github.com/jgravalo/Push_swap_42">
+  <a href="https://github.com/jgravalo/Push_swap">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" alt="PUSH_SWAP" height="100"/>
   </a>
   
