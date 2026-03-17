@@ -138,7 +138,8 @@
     <td align="left">
     
 [`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5)<br>
-[`ft_linear_regression`](https://github.com/jgravalo/ft_linear_regression)
+[`ft_linear_regression`](https://github.com/jgravalo/ft_linear_regression)<br>
+[`Computorv1`](https://github.com/jgravalo/Computorv1)
     </td>
     <td align="left">
 
