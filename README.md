@@ -139,7 +139,8 @@
     
 [`ft_ssl_md5`](https://github.com/jgravalo/ft_ssl_md5)<br>
 [`ft_linear_regression`](https://github.com/jgravalo/ft_linear_regression)<br>
-[`Computorv1`](https://github.com/jgravalo/Computorv1)
+[`Computorv1`](https://github.com/jgravalo/Computorv1)<br>
+[`Avaj_launcher`](https://github.com/jgravalo/Avaj_launcher)
     </td>
     <td align="left">
 
