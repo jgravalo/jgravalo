@@ -33,8 +33,13 @@
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
-<img alt="html,css,js,react" src="https://skillicons.dev/icons?i=html,css,js,react"/>
+- Astro
+- Next.js
+- Angular
+<img alt="html,css,js,ts" src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+<img alt="react,astro,nextjs,angular" src="https://skillicons.dev/icons?i=react,astro,nextjs,angular"/>
 
 </td><td valign="top" width="25%">
 
@@ -43,16 +48,26 @@
 - C++
 - Python
 - Django
+- Java
+- Spring
+- NodeJS
+- Redux
 <img alt="c,cpp,python,django" src="https://skillicons.dev/icons?i=c,cpp,python,django"/>
+<img alt="java,spring,nodejs,redux" src="https://skillicons.dev/icons?i=java,spring,nodejs,redux"/>
 
 </td><td valign="top" width="25%">
 
 ### DevOps
 - Docker
 - Nginx
-- PostGreSQL
+- NPM
 - Redis
-<img alt="docker,nginx,postgresql,redis" src="https://skillicons.dev/icons?i=docker,nginx,postgresql,redis"/>
+- MySQL
+- PostGreSQL
+- Azure
+- AWS
+<img alt="docker,nginx,postgresql,redis" src="https://skillicons.dev/icons?i=docker,nginx,npm,redis"/>
+<img alt="mysql,postgresql,azure,aws" src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
 
 </td><td valign="top" width="25%">
 
@@ -61,7 +76,12 @@
 - Github
 - Bash
 - Vim
+- Cloudflare
+- Notion
+- Figma
+- LinkedIn
 <img alt="git,github,bash,vim" src="https://skillicons.dev/icons?i=git,github,bash,vim"/>
+<img alt="cloudflare,notion,figma,linkedin" src="https://skillicons.dev/icons?i=cloudflare,notion,figma,linkedin"/>
 
 </td></tr></table>
 <br>
